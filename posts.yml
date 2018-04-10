@@ -1,0 +1,12 @@
+---
+example:
+  info:
+    author: John Doe
+    author_id: 0
+    date: Time.now.epoch
+  content:
+    title: Example Post
+    description: An example post put here to show off how this should work
+    body: A very long *markdown* body full with <b> Html </b> tags
+    display:
+      icon: path/to/icon.png

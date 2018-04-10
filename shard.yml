@@ -1,0 +1,17 @@
+name: blogcr
+version: 0.1.0
+
+authors:
+  - Bree Newfile <brecert@memework.org>
+
+targets:
+  blogcr:
+    main: src/blogcr.cr
+
+dependencies:
+  router:
+    github: tbrand/router.cr
+
+crystal: 0.24.1
+
+license: MIT
